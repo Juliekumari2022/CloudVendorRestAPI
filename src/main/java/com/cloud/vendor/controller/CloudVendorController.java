@@ -43,7 +43,7 @@ public String updateVendorDetails(@RequestBody EntityCloud entity)
 
 {
 	this.entity=entity;
-	return "vendor details updated successfully";
+	return "vendor details udfnlkjflpdated successfully";
 }
 @DeleteMapping("{vendorId}")
 public String deleteVendorDetails(@RequestBody EntityCloud entity)
